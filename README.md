@@ -16,5 +16,5 @@ IoT currently lacks a uniform way of describing the thing which makes it difficu
 
 
 <p align="center">
-  <img src="https://github.com/AtlasFramework/Atlas-Thing-Architecture/blob/master/Resources/AtlasThingArchitecture.jpg" width="700" height="550" title="The Architecture">
+  <img src="https://github.com/AtlasFramework/Main/blob/master/Resources/AtlasFramework.gif" width="700" height="550" title="The Framework">
 </p>
